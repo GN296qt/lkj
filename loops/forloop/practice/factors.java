@@ -16,6 +16,3 @@ public class factors  {
 }     sc.close();
      }
     }
-
-// enter number  : 24
-// factors of 24 are :1 2 3 4 6 8 12 24 
